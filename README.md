@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&width=435&lines=%E4%BD%A0%E5%A5%BD;%E6%88%91%E5%9C%A8%E5%8A%AA%E5%8A%9B%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E5%93%A6)](https://git.io/typing-svg)
+[![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&width=435&lines=%E4%BD%A0%E5%A5%BD;%E6%88%91%E5%9C%A8%E5%8A%AA%E5%8A%9B%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E5%93%A6](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=900&size=25&pause=1000&width=435&lines=%E4%BD%A0%E5%A5%BD;hi))](https://git.io/typing-svg)
 <!--
 **qcmb825/QCMB825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
